@@ -84,11 +84,13 @@ FULL ADDER:
 
 
 ### TRUTH TABLE 
-HALF ADDER
+HALF ADDER:
+
 ![image](https://user-images.githubusercontent.com/69635071/234767533-018261f1-229d-43d3-b172-f48681826210.png)
 
 
-FULL ADDER
+FULL ADDER:
+
 ![image](https://user-images.githubusercontent.com/69635071/234767606-a14e13cb-03db-48f2-aaed-9893f7cd38e6.png)
 
 
